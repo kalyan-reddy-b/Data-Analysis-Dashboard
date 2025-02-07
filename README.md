@@ -18,7 +18,7 @@ Amazon wants to analyze its annual sales data for 2022 to gain insights into cus
 - Calculation of the percentage of total orders delivered.
 
 ## Dashboard Interaction
-- <a href="https://github.com/kalyan-reddy-b/Data-Analysis-Dashboard/blob/main/Amazon%20Sales%20Dashboard%20Screenshot.png">View Dashboard<a/>
+- <a href="https://github.com/kalyan-reddy-b/Data-Analysis-Dashboard/blob/main/Amazon%20sales%20dashboard%20screenshot%20.png">View Dashboard<a/>
 
 ## Process
 1. **Data Preprocessing & Cleaning**: 
@@ -34,7 +34,8 @@ Amazon wants to analyze its annual sales data for 2022 to gain insights into cus
    - Designed an interactive dashboard incorporating key insights.
 
 ## Dashboard
-![Amazon Sales Dashboard Screenshot](https://github.com/user-attachments/assets/551fb742-6453-44ae-8a00-e76c115f2220)
+![Amazon sales dashboard screenshot ](https://github.com/user-attachments/assets/eaf61ebe-cbdd-4d2e-9b4e-f03759644ab5)
+
 
 
 ## Insights from the Analysis
@@ -50,10 +51,10 @@ Amazon wants to analyze its annual sales data for 2022 to gain insights into cus
 
 ## Final Conclusion
 To enhance Amazon's sales performance, a strategic plan should focus on key consumer behaviors, optimizing fulfillment strategies, and improving customer experience. Key recommendations include:
-- Implementing **personalized marketing campaigns**.
-- Enhancing **inventory management** for popular product categories.
+- Implementing personalized marketing campaigns.
+- Enhancing inventory management for popular product categories.
 - Expanding logistics and fulfillment efficiency.
 - Improving customer service and return policies.
-- Leveraging both **Excel and Tableau** dashboards for continuous data-driven decision-making.
+- Leveraging both Excel and Tableau dashboards for continuous data-driven decision-making.
 
 
